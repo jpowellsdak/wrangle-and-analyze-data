@@ -4,7 +4,7 @@ This project consists of a jupyter notebook, text files, and 2 reports.
 
 ## Installation
 
-copy the files to a directory
+Download the files to a directory
 
 ## Usage
 Run the wrangle_act.ipynb from within jupyter.
